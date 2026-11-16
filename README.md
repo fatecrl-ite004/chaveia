@@ -36,7 +36,7 @@ Linux e macOS:
 git clone https://github.com/Giovanna-annavoiG/chaveia.git
 cd chaveia
 npm install
-cp .env.example .env
+cp .env.example 
 npm run dev
 ```
 Windows:
@@ -44,7 +44,7 @@ Windows:
 git clone https://github.com/Giovanna-annavoiG/chaveia.git
 cd chaveia
 npm install
-Copy-Item .env.example .env
+Copy-Item .env.example
 npm run dev
 ```
 
